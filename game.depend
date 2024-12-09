@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1732839505 source:c:\users\filip\onedrive\desktop\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"header.h"
+
+1732838748 c:\users\filip\onedrive\desktop\game\header.h
+
+1732847474 source:c:\users\filip\onedrive\desktop\game\funcoes.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+

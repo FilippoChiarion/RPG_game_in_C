@@ -1,0 +1,77 @@
+Dia 1 - Segunda-feira
+Acordo com o alarme do celular. No canto da tela,
+uma mensagem desconhecida aparece: "Hora de
+enfrentar a rotina novamente." Hoje é segundafeira, o início de mais uma semana e, sem saber, o
+início de uma jornada cheia de desafios. Tudo
+parece normal, até que noto um papel caído no
+chão ao lado da cama. A letra é apressada, como se
+alguém tivesse escrito às pressas:
+"Os Guardiões estão à sua espera. Para avançar,
+você precisará superar os desafios que surgirem em
+seu caminho. Somente aquele que se provar digno
+poderá seguir adiante."
+O que significa isso? Guardiões? Quem são esses
+guardiões? Antes que eu consiga entender muito
+bem, percebo que o primeiro desafio de hoje está
+logo ali — o motorista de ônibus.
+Saio de casa e corro para o ponto de ônibus. O
+trânsito está movimentado, e o ônibus finalmente
+chega. Ao entrar, vejo que o motorista não é um
+simples funcionário — ele é um dos obstáculos que
+preciso derrotar. E, sem dúvida, ele sabe disso...
+O ônibus da uma arrancada, balançando de um
+lado para o outro, o motorista faz uma curva
+fechada e freia bruscamente. Sou arremessado
+para a porta, que se abre repentinamente, e caio na
+rua. Antes que consiga me levantar, o motorista
+desce e diz:
+— “A viagem acabou pra você”!
+---LUTA INIMIGO---
+20 70 Motorista_do_Ônibus
+'Você derrotou o motorista de ônibus.'
+Derrotado, ele diz o seguinte:
+— “Você pode ter me vencido, mas ainda está longe
+de estar pronto. O verdadeiro desafio o espera com
+o Guardião.”
+Sem perder tempo, sigo em direção à faculdade. As
+portas estão abertas, mas o clima está pesado. Eu
+sinto que algo está diferente. Depois de atravessar o
+campus, chego até a sala onde o guardião está,
+mas, ao entrar, vejo que está vazia. O ambiente
+parece silencioso, até que a porta se fecha atrás de
+mim, trancando-me no local. Um arrepio percorre
+minha espinha. Sei que a batalha contra o Guardião
+está prestes a começar.
+De repente, ouço um som vindo das sombras.
+Milton aparece na minha frente. O professor, com
+sua postura confiante, sorri de maneira enigmática
+e diz:
+— "Você acha que está pronto? Vamos ver o quanto
+realmente aprendeu."
+Sinto uma onda de energia passando por mim,
+como se algo tivesse despertado. O poder está
+fluindo e, de repente, uma nova habilidade surge.
+Agora, além dos ataques normais, tenho acesso à
+“especiais” Eu entendo que essa luta será decisiva,
+e é hora de usar tudo o que aprendi até agora.
+---LUTA BOSS---
+30 100 Milton
+"Você derrotou Milton, o Guardião."
+Após derrotar Milton, ele cai de joelhos, ofegante,
+mas com um olhar que mistura surpresa e respeito.
+— "Você tem potencial... mais do que imaginei. Mas
+saiba que cada passo nessa jornada só te levará
+para mais perto da verdade... ou do abismo."
+Com um gesto cansado, ele tira algo do bolso: um
+pequeno fragmento metálico, com inscrições
+enigmáticas em sua superfície. Ele o estende para
+mim.
+— "Pegue isto. Você não entenderá agora, mas vai
+precisar."
+Eu aceito o fragmento, sentindo um peso estranho
+em sua textura, como se carregasse algo mais do
+que apenas metal. Milton se ergue com dificuldade
+e, antes de desaparecer, deixa um último aviso:
+— "Lembre-se: o conhecimento é uma arma. Use-o
+com sabedoria."
+FIM DO DIA 1 - SEGUNDA-FEIRA

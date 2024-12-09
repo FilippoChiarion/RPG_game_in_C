@@ -1,0 +1,13 @@
+Personagem Atual: 2
+Dano: 90
+Vida: 220
+Vida Máxima: 220
+Velocidade: 1,20
+Level: 5
+XP: 100
+XP Necessário: 250
+Mana: 50
+Mana Máxima: 50
+Defesa: 0,20
+Chance Crítico: 0,20
+Fase Atual: 5
