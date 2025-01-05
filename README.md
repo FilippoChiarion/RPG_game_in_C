@@ -42,4 +42,4 @@ O jogador assume o papel de um estudante que, ao ingressar na faculdade, descobr
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/FilippoChiarion/xadrez-console.git
+   git clone https://github.com/FilippoChiarion/RPG_game_in_C.git
